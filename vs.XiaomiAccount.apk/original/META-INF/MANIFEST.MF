@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: 17.0.1 (N/A)
+
+Name: AndroidManifest.xml
+SHA1-Digest: zJzqvqBPDck77GdkvemQEBOSUOQ=
+
+Name: res/raw-tr/passport_countries_tr
+SHA1-Digest: d6PieGb3mYyP623j4oZB0urPiRk=
+
+Name: resources.arsc
+SHA1-Digest: SECgwM9kFyBfoail/t91rVh++jY=
+

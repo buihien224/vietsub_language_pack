@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 17.0.1 (N/A)
+
+Name: AndroidManifest.xml
+SHA1-Digest: GNfmhz9w2eqKGYLT/KCl2gncsSc=
+
+Name: resources.arsc
+SHA1-Digest: PCsLWMrVeUOHXmx7IRiU2bV+d/g=
+
+Name: res/raw-tr-rTR/sms_frequently_used_phrase
+SHA1-Digest: CBd4I5p4deflAFVTUwVd5gazHK8=
+
+Name: res/raw-vi/sms_frequently_used_phrase
+SHA1-Digest: 90JodqRzXjffPb9AaoogOrOefEE=
+

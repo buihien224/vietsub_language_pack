@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Created-By: 17.0.1 (N/A)
+
+Name: assets/a71db3f8-fc64-428c-8a80-5d11cf75be09.zip
+SHA1-Digest: wu5U4Y6IoreP1FiWS/t5xtrFg+8=
+
+Name: assets/shortcut/shortcuts_tr.json
+SHA1-Digest: KwY4AViBztnrwc+U4hO2f3PAR/g=
+
+Name: AndroidManifest.xml
+SHA1-Digest: fgLg3UhDPp3JG2px0FJ76Aq9iu0=
+
+Name: assets/0fe4f0c0-1687-4b82-b0f1-86d0f598cbbb.zip
+SHA1-Digest: kG4RpW99f/fmTWF1BsnZ1CwyFkI=
+
+Name: assets/shortcut/shortcuts.json
+SHA1-Digest: mMdahVM0H9yZwuOMyhjb3NRkfNk=
+
+Name: assets/320d64ce-5383-43c1-be27-a16e411f78cb.zip
+SHA1-Digest: xChi0IySA2IZ1p82HE8zdHI4wjI=
+
+Name: assets/f45ca1ae-5574-45d5-98da-f3601d07fab1.zip
+SHA1-Digest: E6OwNhSqg1Cwh/gr/1GoPW4dOBM=
+
+Name: assets/default_config.json
+SHA1-Digest: IBWhVhkV21tQlFoVJxnccRxDGHs=
+
+Name: assets/c989887f-fa0d-4963-8c57-896c03e37efc.zip
+SHA1-Digest: qTv3MGQQ6yT8aNzg0JJx8ub721M=
+
+Name: resources.arsc
+SHA1-Digest: U7qfQ+OITZd5c+QNhC0Z6OndzMA=
+
+Name: assets/default_config_for_lite.json
+SHA1-Digest: IBWhVhkV21tQlFoVJxnccRxDGHs=
+
+Name: assets/31c9a11e-d376-49ce-afd0-945dd4d8aeeb.zip
+SHA1-Digest: B9nrkp0S0XhUBj/X4PgfgI3d88Y=
+
+Name: assets/c48cd1fa-c71f-468e-823f-f417c7d8f4c0.zip
+SHA1-Digest: 6f87UwS4e7l0E3JcP8pp0ApVx00=
+
